@@ -2,9 +2,10 @@
 
 A modern, user-friendly web application for downloading and streaming files from TeraBox. This project uses the [TeraBox Download Pro API](https://rapidapi.com/harshilvekariya12345/api/terabox-download-pro-api) available on RapidAPI.
 
-![TeraBox Downloader Pro Screenshot]([https:/github.com/Harshil258/Terabox-video-downloader-free/blob/main/teraboxdownloaderdemo1])
+![TeraBox Downloader Pro Screenshot](https://raw.githubusercontent.com/Harshil258/Terabox-video-downloader-free/refs/heads/main/teraboxdownloaderdemo1.jpg)
 
-![TeraBox Downloader Pro Screenshot]([[https:/github.com/Harshil258/Terabox-video-downloader-free/blob/main/teraboxdownloaderdemo2)])
+![TeraBox Downloader Pro Screenshot](https://raw.githubusercontent.com/Harshil258/Terabox-video-downloader-free/refs/heads/main/teraboxdownloaderdemo2.jpg)
+
 
 
 ## Features
