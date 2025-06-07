@@ -13,9 +13,6 @@ A modern, user-friendly web application for downloading and streaming files from
 - **Mobile Friendly**: Responsive design works on all devices
 - **Premium UI**: Modern, intuitive interface with Bootstrap 5
 
-## Demo
-
-You can see a live demo of the application at [your-demo-url.com](https://your-demo-url.com)
 
 ## Installation
 
